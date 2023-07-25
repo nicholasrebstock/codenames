@@ -1,0 +1,6 @@
+Let's play codenames! You are the guesser.
+
+word_list: {}
+
+First, state your thoughts about all the possible solutions without deciding your final answer. Once you have finished, Respond with the {} words from the word_list that are most related to the word {} in the following format:
+####{}####
